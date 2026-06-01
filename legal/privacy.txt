@@ -1,0 +1,162 @@
+PRIVATUMO POLITIKA
+MamosBalsas
+
+Paskutinis atnaujinimas: 2026-01-20
+
+1. ĮVADAS
+
+Ši privatumo politika paaiškina, kaip „MamosBalsas" programėlė (toliau – „Programėlė", „mes", „mūsų") renka, naudoja, saugo ir apsaugo jūsų asmens duomenis. Naudodamiesi mūsų Programėle, jūs sutinkate su šia privatumo politika.
+
+2. KOKIE DUOMENYS RENKAMI
+
+2.1. Paskyros duomenys
+- Unikalus vartotojo identifikatorius
+- Prenumeratos būsena
+
+2.2. Balso duomenys
+- Balso įrašai, kuriuos pateikiate balso klonavimui
+- Sukurti balso profiliai
+
+2.3. Vaikų profiliai
+- Vaiko vardas
+- Vaiko amžius
+- Pomėgiai (pasirinktinai)
+
+2.4. Sukurtos pasakos
+- Pasakų tekstai
+- Garso įrašai
+- Iliustracijos
+
+2.5. Techniniai duomenys
+- Įrenginio tipas
+- Operacinės sistemos versija
+- Programėlės naudojimo statistika
+
+3. BALSO DUOMENŲ APDOROJIMAS
+
+3.1. Trečiosios šalies paslaugos
+Jūsų balso įrašai yra siunčiami į ElevenLabs (elevenlabs.io) – dirbtinio intelekto balso klonavimo paslaugą. ElevenLabs apdoroja jūsų balsą ir sukuria balso profilį, kuris naudojamas pasakų skaitymui.
+
+3.2. ElevenLabs duomenų tvarkymas
+- ElevenLabs saugo jūsų balso duomenis pagal jų privatumo politiką
+- Balso duomenys naudojami tik pasakų generavimui
+- Ištrynę balso profilį mūsų Programėlėje, mes taip pat ištriname jį iš ElevenLabs sistemų
+
+3.3. Sutikimas
+Prieš įrašant balsą, prašome jūsų aiškaus sutikimo. Galite bet kada atšaukti sutikimą ištrindami balso profilį.
+
+4. PASAKŲ GENERAVIMAS
+
+4.1. OpenAI paslaugos
+Pasakų tekstai ir iliustracijos generuojami naudojant OpenAI dirbtinio intelekto paslaugas. Siunčiami duomenys:
+- Vaiko amžius
+- Pasirinkta tema
+- Pomėgiai (jei nurodyti)
+
+4.2. Turinio saugumas
+Visos sugeneruotos pasakos tikrinamos turinio saugumo filtrais, kad užtikrintume vaikams tinkamą turinį.
+
+5. DUOMENŲ SAUGOJIMAS
+
+5.1. Saugojimo vieta
+Jūsų duomenys saugomi Supabase serveriuose (supabase.com), kurie atitinka GDPR reikalavimus.
+
+5.2. Saugojimo laikotarpis
+- Paskyros duomenys: kol paskyra aktyvi arba kol paprašysite ištrinti
+- Balso profiliai: kol patys ištrinsite arba ištrinsite paskyrą
+- Pasakos: kol patys ištrinsite arba ištrinsite paskyrą
+
+5.3. Duomenų šalinimas
+Galite bet kada:
+- Ištrinti atskirus balso profilius
+- Ištrinti atskiras pasakas
+- Ištrinti visą paskyrą ir visus susijusius duomenis
+
+6. JŪSŲ TEISĖS
+
+Pagal BDAR (GDPR) ir kitus taikomus įstatymus, jūs turite teisę:
+
+6.1. Prieigos teisė
+Gauti informaciją apie tai, kokius jūsų duomenis tvarkome.
+
+6.2. Ištaisymo teisė
+Prašyti ištaisyti netikslius duomenis.
+
+6.3. Ištrynimo teisė
+Prašyti ištrinti jūsų duomenis („teisė būti pamirštam").
+
+6.4. Apribojimo teisė
+Prašyti apriboti jūsų duomenų tvarkymą.
+
+6.5. Duomenų perkeliamumo teisė
+Gauti savo duomenis struktūrizuotu formatu.
+
+6.6. Prieštaravimo teisė
+Prieštarauti jūsų duomenų tvarkymui.
+
+6.7. Sutikimo atšaukimas
+Bet kada atšaukti duotą sutikimą.
+
+Norėdami pasinaudoti šiomis teisėmis, susisiekite su mumis el. paštu: crygml@gmail.com
+
+7. VAIKŲ PRIVATUMAS
+
+7.1. Amžiaus apribojimai
+Programėlė skirta tėvams ir globėjams, kurie kuria pasakas savo vaikams. Vaikai neturėtų naudotis Programėle be suaugusiųjų priežiūros.
+
+7.2. Vaikų duomenys
+Renkame tik minimalius vaikų duomenis (vardas, amžius), reikalingus personalizuotoms pasakoms kurti. Šie duomenys nėra dalijami su trečiosiomis šalimis rinkodaros tikslais.
+
+8. DUOMENŲ SAUGUMAS
+
+Naudojame šias saugumo priemones:
+- Duomenų šifravimas perduodant (TLS/SSL)
+- Saugus duomenų saugojimas
+- Prieigos kontrolė
+- Reguliarus saugumo auditas
+
+9. TREČIŲJŲ ŠALIŲ PASLAUGOS
+
+Naudojame šias trečiųjų šalių paslaugas:
+
+9.1. ElevenLabs (elevenlabs.io)
+- Paskirtis: Balso klonavimas ir teksto pavertimas kalba
+- Duomenys: Balso įrašai
+- Privatumo politika: https://elevenlabs.io/privacy-policy
+
+9.2. OpenAI (openai.com)
+- Paskirtis: Pasakų teksto ir iliustracijų generavimas
+- Duomenys: Vaiko amžius, temos, pomėgiai
+- Privatumo politika: https://openai.com/privacy
+
+9.3. Supabase (supabase.com)
+- Paskirtis: Duomenų saugojimas
+- Duomenys: Visi programėlės duomenys
+- Privatumo politika: https://supabase.com/privacy
+
+9.4. RevenueCat (revenuecat.com)
+- Paskirtis: Prenumeratų valdymas
+- Duomenys: Pirkimų informacija
+- Privatumo politika: https://www.revenuecat.com/privacy
+
+10. SLAPUKAI IR SEKIMAS
+
+Programėlė nenaudoja slapukų. Nerenkame duomenų reklamai ar sekimui tarp programėlių.
+
+11. TARPTAUTINIAI DUOMENŲ PERDAVIMAI
+
+Jūsų duomenys gali būti perduodami ir apdorojami už Europos ekonominės erdvės (EEE) ribų. Tokiais atvejais užtikriname tinkamą duomenų apsaugą pagal BDAR reikalavimus.
+
+12. PRIVATUMO POLITIKOS PAKEITIMAI
+
+Galime atnaujinti šią privatumo politiką. Apie reikšmingus pakeitimus informuosime per Programėlę arba el. paštu. Rekomenduojame periodiškai peržiūrėti šią politiką.
+
+13. KONTAKTAI
+
+Jei turite klausimų apie šią privatumo politiką arba norite pasinaudoti savo teisėmis, susisiekite:
+
+El. paštas: crygml@gmail.com
+
+14. SKUNDAI
+
+Jei manote, kad jūsų duomenų apsaugos teisės buvo pažeistos, turite teisę pateikti skundą Valstybinei duomenų apsaugos inspekcijai (ada.lt).

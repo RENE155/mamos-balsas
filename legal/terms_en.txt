@@ -1,0 +1,184 @@
+TERMS OF USE
+MamosBalsas 
+Last updated: 2025-01-20
+
+1. AGREEMENT
+
+1.1. These Terms of Use (hereinafter "Terms") constitute a legally binding agreement between you and the "MamosBalsas" (Bedtime Stories) app (hereinafter "App", "we", "our").
+
+1.2. By using the App, you confirm that:
+- You have read and understood these Terms
+- You agree to comply with them
+- You are at least 18 years old or have parental/guardian consent
+
+2. SERVICE DESCRIPTION
+
+2.1. The App provides the following services:
+- Generation of personalized bedtime stories for children
+- Voice cloning for story narration
+- Illustration generation for stories
+- Story storage and playback
+
+2.2. Services are provided using artificial intelligence technologies (OpenAI, ElevenLabs).
+
+3. ACCOUNT AND LOGIN
+
+3.1. Account Creation
+The App automatically creates your account when you first launch the application.
+
+3.2. Account Deletion
+You can delete your account at any time through the App settings. Deletion is irreversible - all data will be removed.
+
+4. VOICE CLONING
+
+4.1. Consent
+Before using the voice cloning feature, you must provide explicit consent. By consenting, you confirm that:
+- The voice being recorded is your own or you have the right to record another person
+- You understand the voice will be processed by ElevenLabs AI system
+- You agree to the voice being used for story generation
+
+4.2. Prohibited Use
+It is prohibited to:
+- Clone other people's voices without their consent
+- Use voice cloning for illegal purposes
+- Create deceptive or misleading content
+- Impersonate other individuals
+
+4.3. Voice Data Management
+You can delete your voice profiles at any time. Deletion removes data from our systems and ElevenLabs.
+
+5. CONTENT AND INTELLECTUAL PROPERTY
+
+5.1. Generated Content
+Story texts and illustrations generated in the App are intended for personal use. You may:
+- Listen to stories with your children
+- Save stories on your device
+- Share stories within your family
+
+5.2. Restrictions
+Without our written permission, it is prohibited to:
+- Commercially distribute generated stories
+- Use content in other apps or services
+- Remove copyright or other notices
+
+5.3. App Intellectual Property
+The App, its design, code, and trademarks belong to us and are protected by intellectual property rights.
+
+6. SUBSCRIPTION AND PAYMENTS
+
+6.1. Plans
+The App offers:
+- Basic plan: 1 story
+- Premium plan: unlimited stories, longer stories, more voice profiles
+
+6.2. Payments
+Payments are processed through Apple App Store. App Store payment terms apply.
+
+6.3. Automatic Renewal
+Premium subscription automatically renews at the end of each period unless you cancel beforehand.
+
+6.4. Cancellation
+You can cancel your subscription at any time through App Store settings. Cancellation takes effect at the beginning of the next billing period.
+
+6.5. Refunds
+Refund requests are handled by Apple according to App Store policy.
+
+7. ACCEPTABLE USE
+
+7.1. Commitments
+When using the App, you commit to:
+- Comply with all applicable laws
+- Not provide false information
+- Not violate the rights of others
+- Not use the App for malicious purposes
+
+7.2. Prohibited Actions
+It is prohibited to:
+- Attempt to hack the App or servers
+- Overload servers with excessive requests
+- Copy or decompile the App code
+- Use automated tools to collect data
+
+8. CONTENT SAFETY
+
+8.1. Child-Appropriate Content
+All generated stories are checked by safety filters. We strive to ensure content is appropriate for children.
+
+8.2. Reports
+If you notice inappropriate content, please report it to us by email.
+
+9. SERVICE AVAILABILITY
+
+9.1. Availability
+We strive to ensure uninterrupted App operation but do not guarantee 100% availability.
+
+9.2. Maintenance
+We may temporarily suspend services for maintenance or updates.
+
+9.3. Changes
+We reserve the right to change, update, or discontinue App features.
+
+10. LIMITATION OF LIABILITY
+
+10.1. Services Provided "As Is"
+The App is provided without any warranties. We do not guarantee that:
+- The App will work without errors
+- Generated content will meet your expectations
+- Services will be available at all times
+
+10.2. Liability Limitation
+Our maximum liability is limited to the amount you paid for services in the past 12 months.
+
+10.3. Exclusions
+We are not liable for:
+- Indirect damages
+- Lost profits or data
+- Actions of third parties
+
+11. INDEMNIFICATION
+
+You agree to indemnify us for any losses, expenses, or claims arising from:
+- Your violation of these Terms
+- Illegal use of the App
+- Violation of others' rights
+
+12. DISPUTE RESOLUTION
+
+12.1. Applicable Law
+These Terms are governed by the laws of the Republic of Lithuania.
+
+12.2. Dispute Resolution
+We will attempt to resolve disputes through negotiation. If unsuccessful, disputes will be resolved in the courts of the Republic of Lithuania.
+
+13. CHANGES TO TERMS
+
+13.1. Right to Change
+We may change these Terms at any time.
+
+13.2. Notification
+We will inform you of significant changes through the App or by email.
+
+13.3. Acceptance
+By continuing to use the App after changes, you agree to the new Terms.
+
+14. GENERAL PROVISIONS
+
+14.1. Entire Agreement
+These Terms together with the Privacy Policy constitute the entire agreement between you and us.
+
+14.2. Severability
+If any provision of the Terms is found invalid, the remaining provisions remain in effect.
+
+14.3. Non-Assignment
+You may not assign your rights under these Terms without our consent.
+
+14.4. No Waiver
+Our failure to act on a Terms violation does not constitute a waiver of rights.
+
+15. CONTACT
+
+If you have questions about these Terms, contact us:
+
+Email: crygml@gmail.com
+
+By using the "MamosBalsas" (Bedtime Stories) app, you confirm that you have read, understood, and agree to these Terms of Use.

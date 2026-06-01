@@ -1,0 +1,161 @@
+PRIVACY POLICY
+MamosBalsas 
+Last updated: 2025-01-20
+
+1. INTRODUCTION
+
+This Privacy Policy explains how the "MamosBalsas" (Bedtime Stories) app (hereinafter "App", "we", "our") collects, uses, stores, and protects your personal data. By using our App, you agree to this Privacy Policy.
+
+2. DATA WE COLLECT
+
+2.1. Account Data
+- Unique user identifier
+- Subscription status
+
+2.2. Voice Data
+- Voice recordings you provide for voice cloning
+- Created voice profiles
+
+2.3. Children's Profiles
+- Child's name
+- Child's age
+- Interests (optional)
+
+2.4. Generated Stories
+- Story texts
+- Audio recordings
+- Illustrations
+
+2.5. Technical Data
+- Device type
+- Operating system version
+- App usage statistics
+
+3. VOICE DATA PROCESSING
+
+3.1. Third-Party Services
+Your voice recordings are sent to ElevenLabs (elevenlabs.io) - an artificial intelligence voice cloning service. ElevenLabs processes your voice and creates a voice profile used for reading stories.
+
+3.2. ElevenLabs Data Handling
+- ElevenLabs stores your voice data according to their privacy policy
+- Voice data is used only for story generation
+- When you delete a voice profile in our App, we also delete it from ElevenLabs systems
+
+3.3. Consent
+Before recording your voice, we request your explicit consent. You can withdraw consent at any time by deleting the voice profile.
+
+4. STORY GENERATION
+
+4.1. OpenAI Services
+Story texts and illustrations are generated using OpenAI artificial intelligence services. Data sent includes:
+- Child's age
+- Selected theme
+- Interests (if provided)
+
+4.2. Content Safety
+All generated stories are checked by content safety filters to ensure child-appropriate content.
+
+5. DATA STORAGE
+
+5.1. Storage Location
+Your data is stored on Supabase servers (supabase.com), which comply with GDPR requirements.
+
+5.2. Retention Period
+- Account data: while account is active or until you request deletion
+- Voice profiles: until you delete them or delete your account
+- Stories: until you delete them or delete your account
+
+5.3. Data Deletion
+You can at any time:
+- Delete individual voice profiles
+- Delete individual stories
+- Delete your entire account and all associated data
+
+6. YOUR RIGHTS
+
+Under GDPR and other applicable laws, you have the right to:
+
+6.1. Right of Access
+Obtain information about what data we process about you.
+
+6.2. Right to Rectification
+Request correction of inaccurate data.
+
+6.3. Right to Erasure
+Request deletion of your data ("right to be forgotten").
+
+6.4. Right to Restriction
+Request restriction of your data processing.
+
+6.5. Right to Data Portability
+Receive your data in a structured format.
+
+6.6. Right to Object
+Object to processing of your data.
+
+6.7. Right to Withdraw Consent
+Withdraw given consent at any time.
+
+To exercise these rights, contact us at: crygml@gmail.com
+
+7. CHILDREN'S PRIVACY
+
+7.1. Age Restrictions
+The App is intended for parents and guardians who create stories for their children. Children should not use the App without adult supervision.
+
+7.2. Children's Data
+We collect only minimal children's data (name, age) necessary for creating personalized stories. This data is not shared with third parties for marketing purposes.
+
+8. DATA SECURITY
+
+We use the following security measures:
+- Data encryption in transit (TLS/SSL)
+- Secure data storage
+- Access control
+- Regular security audits
+
+9. THIRD-PARTY SERVICES
+
+We use the following third-party services:
+
+9.1. ElevenLabs (elevenlabs.io)
+- Purpose: Voice cloning and text-to-speech
+- Data: Voice recordings
+- Privacy policy: https://elevenlabs.io/privacy-policy
+
+9.2. OpenAI (openai.com)
+- Purpose: Story text and illustration generation
+- Data: Child's age, themes, interests
+- Privacy policy: https://openai.com/privacy
+
+9.3. Supabase (supabase.com)
+- Purpose: Data storage
+- Data: All app data
+- Privacy policy: https://supabase.com/privacy
+
+9.4. RevenueCat (revenuecat.com)
+- Purpose: Subscription management
+- Data: Purchase information
+- Privacy policy: https://www.revenuecat.com/privacy
+
+10. COOKIES AND TRACKING
+
+The App does not use cookies. We do not collect data for advertising or cross-app tracking.
+
+11. INTERNATIONAL DATA TRANSFERS
+
+Your data may be transferred and processed outside the European Economic Area (EEA). In such cases, we ensure appropriate data protection in accordance with GDPR requirements.
+
+12. PRIVACY POLICY CHANGES
+
+We may update this Privacy Policy. We will inform you of significant changes through the App or by email. We recommend periodically reviewing this policy.
+
+13. CONTACT
+
+If you have questions about this Privacy Policy or wish to exercise your rights, contact us:
+
+Email: crygml@gmail.com
+
+14. COMPLAINTS
+
+If you believe your data protection rights have been violated, you have the right to file a complaint with the State Data Protection Inspectorate (ada.lt) or your local data protection authority.

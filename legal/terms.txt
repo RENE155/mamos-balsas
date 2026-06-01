@@ -1,0 +1,185 @@
+NAUDOJIMO SĄLYGOS
+MamosBalsas
+
+Paskutinis atnaujinimas: 2025-01-20
+
+1. SUTARTIES SUDARYMAS
+
+1.1. Šios naudojimo sąlygos (toliau – „Sąlygos") yra teisiškai įpareigojanti sutartis tarp jūsų ir „MamosBalsas" programėlės (toliau – „Programėlė", „mes", „mūsų").
+
+1.2. Naudodamiesi Programėle, jūs patvirtinate, kad:
+- Perskaitėte ir supratote šias Sąlygas
+- Sutinkate jų laikytis
+- Esate bent 18 metų arba turite tėvų/globėjų sutikimą
+
+2. PASLAUGOS APRAŠYMAS
+
+2.1. Programėlė teikia šias paslaugas:
+- Personalizuotų miego pasakų generavimas vaikams
+- Balso klonavimas pasakų skaitymui
+- Iliustracijų generavimas pasakoms
+- Pasakų saugojimas ir atkūrimas
+
+2.2. Paslaugos teikiamos naudojant dirbtinio intelekto technologijas (OpenAI, ElevenLabs).
+
+3. PASKYRA IR PRISIJUNGIMAS
+
+3.1. Paskyros sukūrimas
+Programėlė automatiškai sukuria jūsų paskyrą pirmą kartą paleidus aplikaciją.
+
+3.2. Paskyros ištrynimas
+Galite bet kada ištrinti savo paskyrą per Programėlės nustatymus. Ištrynimas yra negrįžtamas – visi duomenys bus pašalinti.
+
+4. BALSO KLONAVIMAS
+
+4.1. Sutikimas
+Prieš naudojantis balso klonavimo funkcija, privalote pateikti aiškų sutikimą. Sutikdami patvirtinate, kad:
+- Įrašomas jūsų paties balsas arba turite teisę įrašyti kitą asmenį
+- Suprantate, kad balsas bus apdorotas ElevenLabs AI sistema
+- Sutinkate su balso naudojimu pasakų generavimui
+
+4.2. Draudžiamas naudojimas
+Draudžiama:
+- Klonuoti kitų asmenų balsus be jų sutikimo
+- Naudoti balso klonavimą neteisėtiems tikslams
+- Kurti apgaulingą ar klaidinantį turinį
+- Apsimesti kitais asmenimis
+
+4.3. Balso duomenų valdymas
+Galite bet kada ištrinti savo balso profilius. Ištrynimas pašalina duomenis iš mūsų sistemų ir ElevenLabs.
+
+5. TURINYS IR INTELEKTINĖ NUOSAVYBĖ
+
+5.1. Sugeneruotas turinys
+Pasakų tekstai ir iliustracijos, sugeneruoti Programėlėje, yra skirti asmeniniam naudojimui. Jūs galite:
+- Klausytis pasakų su savo vaikais
+- Saugoti pasakas savo įrenginyje
+- Dalintis pasakomis šeimos rate
+
+5.2. Apribojimai
+Be mūsų raštiško leidimo draudžiama:
+- Komerciškai platinti sugeneruotas pasakas
+- Naudoti turinį kitose programėlėse ar paslaugose
+- Pašalinti autorių teisių ar kitą informaciją
+
+5.3. Programėlės intelektinė nuosavybė
+Programėlė, jos dizainas, kodas ir prekių ženklai priklauso mums ir yra saugomi intelektinės nuosavybės teisių.
+
+6. PRENUMERATA IR MOKĖJIMAI
+
+6.1. Planai
+Programėlė siūlo:
+- Pagrindinį planą: 1 pasaka
+- Premium planą: neribotai pasakų, ilgesnės pasakos, daugiau balso profilių
+
+6.2. Mokėjimai
+Mokėjimai apdorojami per Apple App Store. Taikomos App Store mokėjimo sąlygos.
+
+6.3. Automatinis atnaujinimas
+Premium prenumerata automatiškai atsinaujina kiekvieno laikotarpio pabaigoje, nebent atšauksite prieš tai.
+
+6.4. Atšaukimas
+Prenumeratą galite atšaukti bet kada per App Store nustatymus. Atšaukimas įsigalioja kito atsiskaitymo laikotarpio pradžioje.
+
+6.5. Pinigų grąžinimas
+Pinigų grąžinimo prašymus nagrinėja Apple pagal App Store politiką.
+
+7. PRIIMTINAS NAUDOJIMAS
+
+7.1. Įsipareigojimai
+Naudodamiesi Programėle, įsipareigojate:
+- Laikytis visų taikytinų įstatymų
+- Neteikti melagingos informacijos
+- Nepažeisti kitų asmenų teisių
+- Nenaudoti Programėlės kenkėjiškais tikslais
+
+7.2. Draudžiami veiksmai
+Draudžiama:
+- Bandyti įsilaužti į Programėlę ar serverius
+- Apkrauti serverius perteklinėmis užklausomis
+- Kopijuoti ar dekompiliuoti Programėlės kodą
+- Naudoti automatizuotas priemones duomenims rinkti
+
+8. TURINIO SAUGUMAS
+
+8.1. Vaikams tinkamas turinys
+Visos sugeneruotos pasakos tikrinamos saugumo filtrais. Siekiame užtikrinti, kad turinys būtų tinkamas vaikams.
+
+8.2. Pranešimai
+Jei pastebėjote netinkamą turinį, prašome pranešti mums el. paštu.
+
+9. PASLAUGŲ PRIEINAMUMAS
+
+9.1. Prieinamumas
+Stengiamės užtikrinti nepertraukiamą Programėlės veikimą, tačiau negarantuojame 100% prieinamumo.
+
+9.2. Techninė priežiūra
+Galime laikinai sustabdyti paslaugas techninei priežiūrai ar atnaujinimams.
+
+9.3. Pakeitimai
+Pasiliekame teisę keisti, atnaujinti ar nutraukti Programėlės funkcijas.
+
+10. ATSAKOMYBĖS APRIBOJIMAS
+
+10.1. Paslaugos teikiamos „tokios, kokios yra"
+Programėlė teikiama be jokių garantijų. Negarantuojame, kad:
+- Programėlė veiks be klaidų
+- Sugeneruotas turinys atitiks jūsų lūkesčius
+- Paslaugos bus prieinamos nuolat
+
+10.2. Atsakomybės ribojimas
+Maksimali mūsų atsakomybė ribojama suma, kurią sumokėjote už paslaugas per pastaruosius 12 mėnesių.
+
+10.3. Išimtys
+Neprisiimame atsakomybės už:
+- Netiesioginius nuostolius
+- Prarastą pelną ar duomenis
+- Trečiųjų šalių veiksmus
+
+11. ŽALOS ATLYGINIMAS
+
+Sutinkate atlyginti mums bet kokius nuostolius, išlaidas ar reikalavimus, kylančius dėl:
+- Jūsų Sąlygų pažeidimo
+- Neteisėto Programėlės naudojimo
+- Kitų asmenų teisių pažeidimo
+
+12. GINČŲ SPRENDIMAS
+
+12.1. Taikytina teisė
+Šioms Sąlygoms taikoma Lietuvos Respublikos teisė.
+
+12.2. Ginčų sprendimas
+Ginčus stengsimės spręsti derybų būdu. Nepavykus susitarti, ginčai sprendžiami Lietuvos Respublikos teismuose.
+
+13. SĄLYGŲ PAKEITIMAI
+
+13.1. Pakeitimų teisė
+Galime keisti šias Sąlygas bet kuriuo metu.
+
+13.2. Pranešimas
+Apie reikšmingus pakeitimus informuosime per Programėlę arba el. paštu.
+
+13.3. Sutikimas
+Toliau naudodamiesi Programėle po pakeitimų, sutinkate su naujomis Sąlygomis.
+
+14. BENDROSIOS NUOSTATOS
+
+14.1. Visa sutartis
+Šios Sąlygos kartu su Privatumo politika sudaro visą sutartį tarp jūsų ir mūsų.
+
+14.2. Atskiriamumas
+Jei kuri nors Sąlygų nuostata pripažįstama negaliojančia, likusios nuostatos lieka galioti.
+
+14.3. Teisių neperleidimas
+Negalite perleisti savo teisių pagal šias Sąlygas be mūsų sutikimo.
+
+14.4. Atsisakymo nebuvimas
+Mūsų neveikimas dėl Sąlygų pažeidimo nereiškia teisių atsisakymo.
+
+15. KONTAKTAI
+
+Jei turite klausimų apie šias Sąlygas, susisiekite:
+
+El. paštas: crygml@gmail.com
+
+Naudodamiesi „MamosBalsas" programėle, patvirtinate, kad perskaitėte, supratote ir sutinkate su šiomis Naudojimo sąlygomis.
