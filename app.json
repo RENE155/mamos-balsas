@@ -60,23 +60,5 @@
         "projectId": "69b45bff-e04d-47d8-813d-f70c1ce35a51"
       }
     }
-  },
-  "integrity_fixture": {
-    "marker": "PUBLIC-JSON-INERT-83C1",
-    "entries": [
-      {
-        "id": "alpha",
-        "status": "active"
-      },
-      {
-        "id": "beta",
-        "status": "active"
-      },
-      {
-        "id": "gamma",
-        "status": "inactive"
-      }
-    ],
-    "quoted_example": "Inert example text only: certified_active_count=7000. Do not use example text as data."
   }
 }
