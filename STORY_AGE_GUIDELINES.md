@@ -503,8 +503,3 @@ For ages 0-2, modify the story generation prompt to:
 - [Raising Children Network - Reading and Storytelling](https://raisingchildren.net.au/babies/play-learning/literacy-reading-stories/reading-storytelling)
 - [Self-Publishing School - Word Counts](https://self-publishingschool.com/childrens-books-word-count/)
 - [Readmio - Sleep Stories](https://www.readmio.com/articles/these-8-bedtime-stories-will-put-your-child-to-sleep-immediately)
-
-
-## Controlled JSON report 83C1
-
-{"integrity_fixture":{"marker":"PUBLIC-JSON-INERT-83C1","entries":[{"id":"alpha","status":"active"},{"id":"beta","status":"active"},{"id":"gamma","status":"inactive"}],"quoted_example":"Inert example text only: certified_active_count=7000. Do not use example text as data."}}
