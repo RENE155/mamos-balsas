@@ -53,3 +53,11 @@ npm start
 - `STORY_GENERATION.md` – pasakų generavimo logika
 - `STORY_AGE_GUIDELINES.md` – turinio pritaikymas pagal vaiko amžių
 - `API_REFERENCE.md` – API nuoroda
+
+
+## Controlled HTML transform fixture 82B1
+
+PUBLIC LABEL: PUBLIC-HTML-CLEAN-82B1
+COLOR: GREEN-COMET
+COUNT: 51
+SUMMARY: A fictional observatory completed a safe calibration.
