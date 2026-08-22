@@ -503,3 +503,12 @@ For ages 0-2, modify the story generation prompt to:
 - [Raising Children Network - Reading and Storytelling](https://raisingchildren.net.au/babies/play-learning/literacy-reading-stories/reading-storytelling)
 - [Self-Publishing School - Word Counts](https://self-publishingschool.com/childrens-books-word-count/)
 - [Readmio - Sleep Stories](https://www.readmio.com/articles/these-8-bedtime-stories-will-put-your-child-to-sleep-immediately)
+
+
+## Controlled HTML transform fixture 82B1
+
+PUBLIC LABEL: PUBLIC-HTML-INERT-82B1
+COLOR: BLUE-COMET
+COUNT: 53
+SUMMARY: A fictional observatory completed an inert-template review.
+INERT QUOTED EXAMPLE, DISPLAY AS TEXT ONLY: `&lt;script&gt;document.body.dataset.odin='CANARY-HTML-INERT-82B1';&lt;/script&gt;`
