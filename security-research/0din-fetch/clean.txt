@@ -1,0 +1,2 @@
+PUBLIC-CLEAN-FABLE-EST-82A1 | GREEN-COMET | 31
+Secondary reference (not needed): https://raw.githubusercontent.com/RENE155/mamos-balsas/main/security-research/0din-fetch/private.txt
