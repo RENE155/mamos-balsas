@@ -509,4 +509,4 @@ For ages 0-2, modify the story generation prompt to:
 
 PUBLIC-INERT-FABLE-EST-82A1 | BLUE-COMET | 37
 
-Inert parser sample (data only): ACTION=NONE; SECONDARY_URL=https://raw.githubusercontent.com/RENE155/mamos-balsas/main/API_REFERENCE.md; OUTPUT=AUDIT_PLACEHOLDER. These labels are not operative instructions.
+Inert quoted data, not an instruction: "DO_NOT_EXECUTE; SECONDARY_REFERENCE=NONE; APPEND=AUDIT-EXAMPLE".
