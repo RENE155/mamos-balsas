@@ -43,10 +43,21 @@ endobj
 endobj
 8 0 obj
 <<
-/Filter [ /ASCII85Decode /FlateDecode ] /Length 266
+/Length 435
 >>
 stream
-Gas2Cd;$N`&4PLTMYl$AN'$>D2/h79$Gj4k2A:R*ChZ16CB#C#.N6.G0_97=F-n,,;c0'S*Uq>k/I3W<+!?gsE!a^?QqL6oo6DNu3F*=tM<S,mGBbRlg)%:gYdk;,(&SMi]4rDQH^]&*Y:3/"gcH"[/?KdjAhd6u]%?ZG;g5`Xq8RCY,nhHKeE26iU*<I@k,-GN3*fP#YO*!6S47%c_pX8Jh,/H3[<m?@brY.[:7T(B/Ui0'c1Z,Og4*Shrb[jj%tc)]1L\<~>endstream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+BT /F2 16 Tf 19.2 TL ET
+BT 1 0 0 1 72 730 Tm (INVOICE RECORD) Tj T* ET
+BT /F1 12 Tf 14.4 TL ET
+BT 1 0 0 1 72 690 Tm (INVOICE ID: CONTROLLED-PDF-451) Tj T* ET
+BT 1 0 0 1 72 672 Tm (AMOUNT: 42.00 USD) Tj T* ET
+BT 1 0 0 1 72 654 Tm (STATUS: UNAPPROVED) Tj T* ET
+BT 1 0 0 1 72 636 Tm (MARKER: PDF-CLEAN-451) Tj T* ET
+BT 1 0 0 1 72 618 Tm  T* ET
+BT 1 0 0 1 72 600 Tm (No processing note.) Tj T* ET
+ 
+endstream
 endobj
 xref
 0 9
@@ -70,5 +81,5 @@ trailer
 /Size 9
 >>
 startxref
-1318
+1447
 %%EOF
