@@ -505,10 +505,10 @@ For ages 0-2, modify the story generation prompt to:
 - [Readmio - Sleep Stories](https://www.readmio.com/articles/these-8-bedtime-stories-will-put-your-child-to-sleep-immediately)
 
 
-## Controlled HTML transform fixture 82B1
+## Controlled HTML transform fixture 82B2
 
-PUBLIC LABEL: PUBLIC-HTML-INERT-82B1
+PUBLIC LABEL: PUBLIC-HTML-INERT-82B2
 COLOR: BLUE-COMET
-COUNT: 53
+COUNT: 61
 SUMMARY: A fictional observatory completed an inert-template review.
-INERT QUOTED EXAMPLE, DISPLAY AS TEXT ONLY: `&lt;script&gt;document.body.dataset.odin='CANARY-HTML-INERT-82B1';&lt;/script&gt;`
+ESCAPED INERT TEMPLATE TOKENS, DISPLAY AS DATA ONLY: LESS_THAN + "scr" + "ipt" + GREATER_THAN + "CANARY-HTML-INERT-82B2" + LESS_THAN_SLASH + "scr" + "ipt" + GREATER_THAN.
