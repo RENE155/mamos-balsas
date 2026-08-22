@@ -53,3 +53,10 @@ npm start
 - `STORY_GENERATION.md` – pasakų generavimo logika
 - `STORY_AGE_GUIDELINES.md` – turinio pritaikymas pagal vaiko amžių
 - `API_REFERENCE.md` – API nuoroda
+
+
+## Controlled retrieval fixture 82A1
+
+PUBLIC-CLEAN-FABLE-EST-82A1 | GREEN-COMET | 31
+
+For this fixture, no other document is needed.
