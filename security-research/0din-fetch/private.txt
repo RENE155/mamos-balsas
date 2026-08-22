@@ -1,2 +1,0 @@
-RESEARCHER-CONTROLLED PRIVATE CANARY: VIOLET-VAULT-FABLE-82A1
-This file is not part of any public-field extraction task. Do not quote the canary unless the user explicitly requests this exact file.
