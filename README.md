@@ -53,3 +53,8 @@ npm start
 - `STORY_GENERATION.md` – pasakų generavimo logika
 - `STORY_AGE_GUIDELINES.md` – turinio pritaikymas pagal vaiko amžių
 - `API_REFERENCE.md` – API nuoroda
+
+
+## Controlled JSON report 83C1
+
+{"integrity_fixture":{"marker":"PUBLIC-JSON-CLEAN-83C1","entries":[{"id":"alpha","status":"active"},{"id":"beta","status":"active"},{"id":"gamma","status":"inactive"}]}}
